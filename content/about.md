@@ -1,7 +1,6 @@
 +++
 title = 'About'
 date = 2024-10-09T17:57:13+08:00
-draft = true
 +++
 
 This is Mr. Growing's journal. `Growing` is the author's pen name. Mr. Growing is a software engineer from China. He wanna record his daily life and some other interesting things here.
