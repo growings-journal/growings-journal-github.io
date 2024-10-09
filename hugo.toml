@@ -1,8 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://growings-journal.github.io/'
 languageCode = 'en-us'
 title = "Mr. Growing's journal"
 theme = "whiteplain"
-copyright = "&copy; Copyright 2024 xxx.github.io"
+copyright = "Copyright 2024 growings-journal.github.io"
 
 [[menu.main]]
 identifier = "all"
