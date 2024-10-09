@@ -4,6 +4,7 @@ title = "Mr. Growing's journal"
 theme = "whiteplain"
 copyright = "Copyright 2024 growings-journal.github.io"
 
+
 [[menu.main]]
 identifier = "all"
 name = "All Posts"
