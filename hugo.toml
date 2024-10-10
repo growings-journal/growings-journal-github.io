@@ -4,6 +4,8 @@ title = "Mr. Growing's journal"
 theme = "whiteplain"
 copyright = "Copyright 2024 growings-journal.github.io"
 
+googleAnalytics = "G-RNC1SLKEQH"
+enableRobotsTXT = true
 
 [[menu.main]]
 identifier = "all"
